@@ -1,1 +1,2 @@
-# Advanced-Databse-CSE464-
+# Advanced-Databse
+The Restaurant Management System is a database-driven application designed to efficiently manage restaurant operations, including staff, customers, orders, and food cataloging. It utilizes PL/SQL with a structured schema to maintain relationships between entities such as staff, customers, and orders, supporting CRUD operations and query optimization. Key features include managing both online and offline orders, tracking delivery and dining services, and maintaining data integrity through stored procedures and constraints. Advanced queries provide insights into order patterns, staff management, and sales analytics. The project highlights SQL's power in relational database management for business optimization.
